@@ -1,6 +1,6 @@
 # The MIF
 The MIF is file searching tool based on [FastSearchLibrary](https://github.com/VladPVS/FastSearchLibrary "FastSearchLibrary").
-This tool uses very fast multithreading search algorithm, but it consumes almost all available processor resources.
+This tool uses very fast multithreading search algorithm that consumes almost all available processor resources.
 
 ![Main window](http://vlad-web.ucoz.ru/GitHub/The_MIF.png)
 
@@ -38,7 +38,7 @@ One can read about regular expressions on [Wikipedia](https://en.wikipedia.org/w
 Note that pattern in `regular expression` mode IS case sensitive.
 
 ## COMMAND LINE ARGUMENTS
-As search process consume a lot of resources, by default one can launch only one instance of program.
+As search process consumes a lot of resources, by default one can launch only one instance of program.
 But if really necessity to launch several instances exists, one should use `-fl` command line argument.
  
 Example: `C:\Program Files\MIF.exe -fl`
