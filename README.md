@@ -1,6 +1,8 @@
 # The MIF
 The MIF is file searching tool based on [FastSearchLibrary](https://github.com/VladPVS/FastSearchLibrary "FastSearchLibrary").
-This tool uses very fast multithreading search algorithm that consumes almost all available processor resources.
+This tool uses a high-speed multithreading search algorithm that consumes a significant part of processor resources.
+
+![Downloads](https://img.shields.io/github/downloads/VladPVS/The-MIF/total.svg)
 
 ![Main window](http://vlad-web.ucoz.ru/GitHub/The_MIF.png)
 
